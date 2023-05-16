@@ -1,3 +1,4 @@
-# Template de Currículo 
+# Projeto de Pagina Pessoal DIO.me
 
-Template em HTML e CSS para um breve hands on durante a Master Class "Criando um Currículo de Sucesso - O Passo a Passo em Tempo Real".
+Pagina pessoal feita em HTML para exibição no Github Pages.
+
